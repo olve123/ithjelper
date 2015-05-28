@@ -5,9 +5,10 @@
 	margin: auto;
 }
 body{
-	background-image: url("img/bg2.jpg");
+	background-color: black;
+	background-image: url("img/bg.png");
 	background-repeat: no-repeat;
-	background-color: #a7a7a7;
+	
 
 
 }
