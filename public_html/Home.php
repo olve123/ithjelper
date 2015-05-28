@@ -1,19 +1,7 @@
-<DOCTYPE HTML>
 <html>
-
-	<head>
-	<!--HEAD-->
-		<title>
-			ITHjelper
-		</title>
-		<link rel="stylesheet" type="text/css" href="css/main.css">
-		<link rel="stylesheet" type="text/css" href="css/dropdown.css">
-
-		<meta charset="UTF-8">
-	</head>
-
-	<body>
-	<!--BODY-->
+		<?php include("tpl/header.php"); ?>
+		<?php echo "heiehiehieheiei"; ?>
+		
 		<!--DROPDOWN-->
 		<div id ="wrapper">
 		<div id = "head"><h1>ITHjelper</h1></div>
