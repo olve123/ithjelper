@@ -1,0 +1,79 @@
+#wrapper{
+	height: 100%;
+	width: 60%;
+	border:auto;	
+	margin: auto;
+}
+body{
+	background-image: url("pic/background.jpg");
+	background-repeat: no-repeat;
+	background-color: #a7a7a7;
+
+
+}
+h1 {
+	font-size: 80px;
+	padding-top: 3.5%;
+	text-align: center;
+	color: white;
+	font-family: helvetica;
+}
+
+#head{
+	width: auto;
+	height: 10em;
+	background-color: black;
+}
+#mainBox{
+	background-color:rgb(39,39,42); ;
+	width: auto;
+	height: auto;
+	margin: 0 auto;	
+	border: 1px solid black;
+
+}
+.pic{
+	height: 400px;
+	display: block;
+	margin: auto;
+
+}
+.text{
+	font-size: 20px;
+	margin-left: 25%;
+	margin-right: 25%;
+	display: block;
+	color: white;
+
+
+}
+.overskrift{
+	font-size: 30px;
+	text-align: center;
+	font-family: helvetica;
+	color: white;
+}
+#link{
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	margin-left:50px;
+}
+#rating{
+	position: absolute;
+	padding-left: 47%;
+	padding-top: 0%;
+	display: block;
+
+}
+
+#list{
+	font-size: 30px;
+	font-family: helvetica;
+	color:white;
+	text-align: left;
+	margin-left: 25%;
+	list-style-position: inside;
+
+}
+
