@@ -1,6 +1,6 @@
 #cssmenu {
 	position: relative;
-	background: #FEFEFE;
+	background: #4C515F;
 	width: auto;
 	font-family: helvetica;
 	font-weight: bold;
@@ -16,7 +16,7 @@
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   display: block;
-  background: #EEE;
+  background: #4C515F;
   width: 100%;
   z-index: 500;
 }
@@ -33,17 +33,16 @@
 	padding: 10px 10px 10px 10px;
 	min-width: 50px;
 	text-align: center;
-	color: #2F344C;
+	color: #E1E1E1;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 
 #cssmenu > ul li a:hover {
-	background: #DCDCDC;
-	color: #0C0C0D;
+	color: #FFF;
 }
 
 #cssmenu > ul li a:active {
-	background: #C0C0C0;
-	color: #0C0C0D;
+	background: #101628;
+	color: #FFF;
 }
