@@ -16,7 +16,6 @@ h1 {
 	font-size: 80px;
 	padding-top: 3.5%;
 	text-align: center;
-	color: white;
 	font-family: helvetica;
 }
 
@@ -27,11 +26,12 @@ h1 {
 	background-color: black;
 }
 #mainBox{
-	background-color:rgb(39,39,42); ;
+	background-color: #FFF;
 	width: auto;
+	color: #111;
 	height: 75%;
 	margin: 0 auto;	
-	border: 1px solid black;
+	margin-top: 0px;
 
 }
 .pic{
@@ -45,7 +45,6 @@ h1 {
 	margin-left: 25%;
 	margin-right: 25%;
 	display: block;
-	color: white;
 
 
 }
@@ -53,11 +52,9 @@ h1 {
 	font-size: 30px;
 	text-align: center;
 	font-family: helvetica;
-	color: white;
 }
 #link{
 	text-align: center;
-	color: white;
 	text-decoration: none;
 	margin-left:50px;
 }
@@ -72,7 +69,6 @@ h1 {
 #list{
 	font-size: 30px;
 	font-family: helvetica;
-	color:white;
 	text-align: left;
 	margin-left: 25%;
 	list-style-position: inside;
