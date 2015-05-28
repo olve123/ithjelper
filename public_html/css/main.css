@@ -6,7 +6,7 @@ h1,h2,h3,h4,p,a,li {
 
 #wrapper{
 border: 1px solid black;
-	height: 100%;
+	height: auto;
 	width: 60%;
 	border:auto;	
 	margin: auto;
@@ -14,9 +14,9 @@ border: 1px solid black;
 body{
 
 	font-family: helvetica;
-	background-color: black;
-	background-image: url("img/bg.png");
-	background-repeat: no-repeat;
+	background-color: #EEE;
+	/*background-image: url("img/bg.png");
+	background-repeat: no-repeat;*/
 	
 
 
