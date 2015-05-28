@@ -5,7 +5,9 @@ h1,h2,h3,h4,p,a,li {
 }
 
 #wrapper{
-	border: 1px solid black;
+	position:relative;
+	/*border: 1px solid black;*/
+	/*background: #ccc;*/
 	height: auto;
 	width: 60%;
 	border:auto;	
@@ -25,18 +27,16 @@ body{
 #head{
 	width: auto;
 	height: 10em;
-	background: url("img/logo.png") 50% 50% no-repeat;
-	background-color: #FFF;
+	background: url("img/logo.png") 5% 7% no-repeat;
+	/*background-color: #FFF;*/
 }
 
 #mainBox{
-	background-color: #FFF;
-	width: auto;
+	background-color: rgb(214,214,224);
 	color: #14161F;
-	height: 75%;
-	margin: 0 auto;	
 	margin-top: 0px;
 	padding: 15px 20px;
+	border-radius: 5px;
 	overflow:hidden;
 
 }

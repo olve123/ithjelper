@@ -1,7 +1,9 @@
 #cssmenu {
-	position: relative;
-	background: #4C515F;
-	width: auto;
+	position: absolute;
+	/*background: #4C515F;*/
+	right: 0px;
+	top: 20px;
+	width: 60%;
 	font-family: helvetica;
 	font-weight: bold;
 }
@@ -13,10 +15,10 @@
 }
 #cssmenu > ul {
   position: relative;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
+  /*border-top: 1px solid black;
+  border-bottom: 1px solid black;*/
   display: block;
-  background: #4C515F;
+  /*background: #4C515F;*/
   width: 100%;
   z-index: 500;
 }
@@ -33,7 +35,7 @@
 	padding: 10px 10px 10px 10px;
 	min-width: 50px;
 	text-align: center;
-	color: #E1E1E1;
+	color: #EEE;
 	text-decoration: none;
 	text-transform: uppercase;
 }
