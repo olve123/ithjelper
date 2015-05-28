@@ -25,7 +25,7 @@ body{
 #head{
 	width: auto;
 	height: 10em;
-	background-image: url("img/logo.png");
+	background: url("img/logo.png") 50% 50% no-repeat;
 	background-color: white;
 }
 #mainBox{
