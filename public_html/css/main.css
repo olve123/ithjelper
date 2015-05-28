@@ -1,4 +1,8 @@
-
+h1,h2,h3,h4,p,a,li {
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+}
 
 #wrapper{
 border: 1px solid black;
@@ -17,10 +21,6 @@ body{
 
 
 }
-h1 {
-	/*font-size: 80px;*/
-	text-align: center;
-}
 
 #head{
 	width: auto;
@@ -35,6 +35,7 @@ h1 {
 	height: 75%;
 	margin: 0 auto;	
 	margin-top: 0px;
+	padding: 15px 20px;
 	overflow:hidden;
 
 }
@@ -45,17 +46,14 @@ h1 {
 
 }
 .text{
-	font-size: 20px;
-	margin-left: 25%;
-	margin-right: 25%;
 	display: inline-block;
 
 
 }
 .overskrift{
 	font-size: 30px;
-	text-align: center;
 	font-family: helvetica;
+	margin-bottom: 15px;
 }
 #link{
 	text-align: center;

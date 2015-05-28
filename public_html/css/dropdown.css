@@ -30,6 +30,8 @@
 	display: inline-block;
 	position: relative;
 	padding: 15px 10px 15px 10px;
+	min-width: 50px;
+	text-align: center;
 	color: #777;
 	text-decoration: none;
 	text-transform: uppercase;
